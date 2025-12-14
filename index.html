@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harsh Rajput - Developer Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">Harsh Rajput</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero-section">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1>Harsh Rajput</h1>
+                    <h2>Aspiring Data Analyst | CSE Student</h2>
+                    <p>A passionate developer with experience in building web applications and a strong desire to learn and grow in the tech industry.</p>
+                    <div class="hero-buttons">
+                        <a href="HARSH RAJPUT JOB RESUME.pdf" download class="btn btn-primary">Download Resume</a>
+                        <a href="#contact" class="btn btn-secondary">Contact Me</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="profile-frame">
+                        <img src="profile.jpg" alt="Harsh Rajput" class="profile-img" onerror="this.onerror=null;this.src='profile-placeholder.png'">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="about-content">
+                <div class="about-image">
+                    <div class="profile-frame-about">
+                        <img src="profile.jpg" alt="Harsh Rajput" class="profile-img-about" onerror="this.onerror=null;this.src='profile-placeholder.png'">
+                    </div>
+                </div>
+                <div class="about-text">
+                    <h2>About Me</h2>
+                    <p>I am a 7th-semester B.Tech Computer Science student with a strong foundation in full-stack development. I am actively seeking an internship starting in January 2026. My primary interests lie in creating dynamic web applications and exploring the potential of AI-powered tools.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills" class="skills-section">
+            <h2>My Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <h3>Frontend</h3>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                    </ul>
+                </div>
+                <div class="skill-card">
+                    <h3>Languages</h3>
+                    <ul>
+                        <li>Pythone</li>
+                        <li>Java</li>
+                        <li>Data structures</li>
+                    </ul>
+                </div>
+                <div class="skill-card">
+                    <h3>Experties</h3>
+                    <ul>
+                        <li>Data Anaytics</li>
+                        <li>Data Visualization</li>
+                        <li>Web decelopment</li>
+                    </ul>
+                </div>
+                <div class="skill-card">
+                    <h3>Tools</h3>
+                    <ul>
+                        <li>VS code</li>
+                        <li>PowerBI</li>
+                        <li>Microsoft Suits</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="projects-section">
+            <h2>Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3>BUS TICKET BOOKING SYSTEM</h3>
+                    <p class="tech-used">Python, Data Structures, Visual Studio </p>
+                    <p>Developed a Python-based ticket booking system using Object Oriented Programming to manage seat reservations, cancellations, and real-time availability efficiently.</p>
+                    <div class="project-links">
+                        <a 
+                             href="https://github.com/harsh-rajput-9104/ITproject1.git"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            >
+                            <button class="btn">GitHub Repo</button>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3>Productivity Analysis Dashboard</h3>
+                    <p class="tech-used">JavaScript, HTML, CSS</p>
+                    <p>Developed a responsive productivity dashboard with task management, Pomodoro timer, sticky notes, mini calendar, and daily motivational quotes to enhance focus and productivity.</p>
+                    <div class="project-links">
+                        <a 
+                             href="https://github.com/harsh-rajput-9104/productivity-dashboard.git"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            >
+                            <button class="btn">GitHub Repo</button>
+                        </a>
+                         </div>
+                </div>
+                <div class="project-card">
+                    <h3>CRIME RATE ANALYTICS (Group project)</h3>
+                    <p class="tech-used">Python, Flask, ReactJS, Machine Learning, MongoDB, Data Analytics, Data Visualization</p>
+                    <p>Built a crime analysis system using ML and time-series models to forecast crime trends and visualize insights through dashboards and heatmaps for better decision-making.</p>
+                    <div class="project-links">
+                        <a 
+                             href="https://github.com/harsh-rajput-9104/CRIME-RATE-ANALYTICS.git"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            >
+                            <button class="btn">GitHub Repo</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <h2>Contact Me</h2>
+            <form id="contact-form">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+                <textarea name="message" placeholder="Your Message" required></textarea>
+                <button type="submit" class="btn btn-primary">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="https://github.com/harsh-rajput-9104" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/harsh-rajput-405969251/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshrajput9104@gmail.com" target="_blank" rel="noopener noreferrer"> Email</a>
+        </div>
+        <p>&copy; 2025 Harsh Rajput. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
