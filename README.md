@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Harsh Rajput
 
 🎓 Final-year **B.Tech CSE** student  
@@ -26,7 +25,6 @@ I enjoy transforming ideas into interactive experiences and refining interfaces 
 ---
 
 ## 🛠 Tech Stack
-```text
 HTML • CSS • JavaScript • React • Tailwind CSS • Git • UI/UX
 
 
