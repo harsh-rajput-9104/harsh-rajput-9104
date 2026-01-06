@@ -1,5 +1,33 @@
 # 💫 About Me:
-I am Harsh Rajput.<br>Final year B tech CSE Student<br>Full Stack Web Development intern<br>Made projects like E-commerce website, productivity dashboard, personal portfolio.<br>I am more interested in frontend web dev and UI/UX designing<br>I am a Vibe Coder<br>
+# 👋 Hi, I'm Harsh Rajput
+
+🎓 Final-year **B.Tech CSE** student  
+💻 **Full-Stack Web Development Intern**  
+🎨 Frontend-focused developer with a strong interest in **UI/UX design**
+
+I build **clean, responsive, and user-friendly web applications** with strong attention to detail and performance.  
+I enjoy transforming ideas into interactive experiences and refining interfaces until they *feel right*.
+
+---
+
+## 🚀 Projects
+- 🛒 **E-commerce Website**
+- 📊 **Productivity Dashboard**
+- 🌐 **Personal Portfolio**
+
+---
+
+## 🧠 Interests
+- Frontend Web Development
+- UI/UX Design & Design Systems
+- Modern JavaScript Frameworks
+- Building smooth, intuitive user experiences
+
+---
+
+## 🛠 Tech Stack
+```text
+HTML • CSS • JavaScript • React • Tailwind CSS • Git • UI/UX
 
 
 ## 🌐 Socials:
