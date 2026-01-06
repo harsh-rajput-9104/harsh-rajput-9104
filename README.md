@@ -24,10 +24,6 @@ I enjoy transforming ideas into interactive experiences and refining interfaces 
 
 ---
 
-## 🛠 Tech Stack
-HTML • CSS • JavaScript • React • Tailwind CSS • Git • UI/UX
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_rajput_9104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshrajput9104) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshrajput9104@gmail.com) 
 
