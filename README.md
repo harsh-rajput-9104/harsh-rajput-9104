@@ -124,7 +124,7 @@ const harsh = {
 **Full Stack Web Development Intern** @ [TejasKP AI Software](https://tejaskp.com) *(Jan 2026 – Mar 2026)*
 > On-site · Built demo frontends using Next.js & React, debugged live projects, enhanced UI for production apps
 
-**Full Stack Web Development Intern** @ FutureInterns *(Dec 2025 – Jan 2026)*
+**Full Stack Web Development Intern** @ [FutureInterns](https://futureinterns.com) *(Dec 2025 – Jan 2026)*
 > Remote · Built portfolio site, Zwintra e-commerce platform, redesigned Cola NEO brand website with AI tools
 
 ---
