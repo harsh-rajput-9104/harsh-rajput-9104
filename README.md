@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshrajput9104-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshrajput9104)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-rajput-9104.github.io/harsh-rajput-9104/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.harshrajput.me)
 [![Email](https://img.shields.io/badge/Email-harshrajput9104%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshrajput9104@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-harsh__rajput__9104-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harsh_rajput_9104)
 
